@@ -17,3 +17,7 @@ Contine aproximativ 8.800 de titluri, atat filme cat si seriale, cu informatii p
 | `director` | `string` | Regizorul |
 | `release_year` | `int` | Anul lansarii |
 | `cast` | `string` | Actorii |
+
+## Recombee
+
+Proprietatile sunt inregistrate in baza de date **Development** din organizatia `upb-robert-lab` (Database ID: `upb-robert-lab-dev`).
